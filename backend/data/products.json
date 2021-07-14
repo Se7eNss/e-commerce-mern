@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Sandisk Ultra 128GB SDXC UHS-I Memory Card up to 80mb/s",
+        "price":"45,89",
+        "description":"goooooodddd product",
+        "rating":4.5,
+        "images":[{
+                "public_id":"products/tzfsnrli3szrdnb4jgge",
+                "url":"https://m.media-amazon.com/images/I/81P+FSZ40EL._AC_UL480_FMwebp_QL65_.jpg"
+        }],
+        "category":"Electronic",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews": 32,
+        "reviews":[]
+    },
+    {
+        "name":"Sandisk Ultra 28GB SDXC UHS-I Memory Card up to 80mb/s",
+        "price":"47,89",
+        "description":"goooooodddd product",
+        "rating":4.5,
+        "images":[{
+                "public_id":"products/tzfsnrli3szrdnb4jgge",
+                "url":"https://m.media-amazon.com/images/I/81P+FSZ40EL._AC_UL480_FMwebp_QL65_.jpg"
+        }],
+        "category":"Electronic",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews": 32,
+        "reviews":[]
+    },
+    {
+        "name":"Sandisk Ultra 8GB SDXC UHS-I Memory Card up to 80mb/s",
+        "price":"40,89",
+        "description":"goooooodddd product",
+        "rating":4.5,
+        "images":[{
+                "public_id":"products/tzfsnrli3szrdnb4jgge",
+                "url":"https://m.media-amazon.com/images/I/81P+FSZ40EL._AC_UL480_FMwebp_QL65_.jpg"
+        }],
+        "category":"Electronic",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews": 32,
+        "reviews":[]
+    },
+    {
+        "name":"Sandisk Ultra 12GB SDXC UHS-I Memory Card up to 80mb/s",
+        "price":"49,89",
+        "description":"goooooodddd product",
+        "rating":4.5,
+        "images":[{
+                "public_id":"products/tzfsnrli3szrdnb4jgge",
+                "url":"https://m.media-amazon.com/images/I/81P+FSZ40EL._AC_UL480_FMwebp_QL65_.jpg"
+        }],
+        "category":"Electronic",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews": 32,
+        "reviews":[]
+    }
+]
